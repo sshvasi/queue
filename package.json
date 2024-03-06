@@ -1,6 +1,6 @@
 {
   "name": "ueque",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Promise based asynchronous concurrent queue with the rate limiting",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
