@@ -1,0 +1,17 @@
+{
+  "name": "ueque",
+  "version": "0.1.0",
+  "description": "Promise based asynchronous concurrent queue with the rate limiting",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "keywords": [],
+  "author": "Alexander Vasiliev",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.25"
+  }
+}
